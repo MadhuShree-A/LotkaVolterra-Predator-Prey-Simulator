@@ -20,12 +20,11 @@ It provides:
 
 ##  How to Run
 git clone https://github.com/your-username/lotka-volterra-simulator.git
-- cd lotka-volterra-simulator
+cd lotka-volterra-simulator
 
 ## Run the main script:
 python your_script_name.py
-
-- A GUI window will open where you can enter parameters and run simulations.
+A GUI window will open where you can enter parameters and run simulations.
 
 ## Parameters
 
